@@ -1,0 +1,25 @@
+Statement of Purpose
+Seyed Alireza Hashemi
+
+I am writing this letter to express my interest in the E3 internship program. I hope to get the opportunity to participate in this program to get a chance to improve my knowledge and gain experience and skills.
+
+I am Seyed Alireza Hashemi, a first-year M.Sc student in Software Engineering at the Sharif University of Technology, the leading institution for engineering in Iran. I passed my B.Sc in Computer Engineering at this university too.
+
+After passing two main programming courses at university (Web and Mobile programming) and gaining great experience by collaborating on technical projects, I discovered my passion for developing web applications. I started my work as a front-end engineer and gradually learned the basics of back-end development.
+
+During my bachelor's degree, I started working in a technical position at an educational company. We designed and developed some gamified platforms which help teachers have a better experience during teaching. I love teaching too!
+
+After gaining experience in that company, three of my friends and I founded our startup called Kamva Academy, an online platform that holds interactive courses. I am the chief technology officer of Kamva and role scrum master for its development process. We use the scrum methodology for developing our software.
+
+At the beginning of the third year of Kamva's birth, there are more than 20 interactive courses in math, physics, and computer science and more than 7000 users in Kamva.
+
+In our small startup, I have faced some non-technical issues such as branding, marketing, financial, legal, and customer experience. The good side of small companies is that you can have a comprehensive view of the product life cycle, and I like this view too!
+
+When I saw the E3 research domains list, I found Product Design mostly contained my interests. I think it's an ideal place for me, as I have the chance to receive mentoring and gain experience from the best professors.
+
+I should add that I have passed the Software Development Methodology and Software Architecture courses at university, which have close relation with designing products. I'm also going to have The basics of Entrepreneurship course next semester, offered by the Faculty of Management and Economics.
+
+Thank you for your attention.
+
+Sincerely,
+Seyed Alireza Hashemi
