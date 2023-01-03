@@ -1,0 +1,30 @@
+Motivation Letter
+Seyed Alireza Hashemi
+
+I am writing this letter to express my interest in the Summer@EPFL internship program. I hope to get the opportunity to participate in this program to get a chance to improve my knowledge and gain experience and skills.
+
+I am Seyed Alireza Hashemi, a first-year M.Sc. student in Software Engineering at the Sharif University of Technology, the leading institution for engineering in Iran. I graduated with a bachelor's degree in Computer Engineering from the same university as well.
+
+After passing two programming courses at the university (Web and Mobile programming) and gaining valuable experience by collaborating on technical projects, I discovered my passion for developing web applications. I started my work as a front-end engineer and gradually learned the basics of back-end development.
+
+During my bachelor's degree, I started working in a technical position at an educational company. We designed and developed some gamified platforms, which help teachers have a better experience during teaching.
+
+I love teaching too! I have taught math and computer science to my younger schoolmates for about six years since I was a student. Furthermore, I have been a teaching assistant at Sharif University's computer engineering department for seven courses.
+
+After gaining experience through personal teaching and working in the educational company, three of my friends and I founded our startup called Kamva Academy. Kamva is an online platform that holds interactive-collaborative courses. I am the chief technology officer (CTO) of Kamva.
+As Kamva enters its third year of existence, it offers over 20 interactive courses in math, physics, and computer science, with more than 7000 registered users.
+The main characteristic of Kamva is the FSM Learning Model. Its learning paths follow the FSM rather than being linear. So, AI could route students to their different personalized paths.
+Students in Kamva can take classes individually or as a team. If the students start their journey as a team, they will be able to connect with each other via audio and video. In addition, they will also be able to share a whiteboard online.
+
+In general, I like to use my strong programming and software skills, plus my algorithmic vision, to build technological and digital assets, helping teachers and improving students' education.
+
+Among the Summer@EPFL research domains, Digital Education was the one that most closely matched my interests. As a student, I would appreciate the opportunity to be mentored by professors such as Prof Pierre Dillenbourg (CHILI lab) and Prof Tanja Käser (ML4ED lab), who can give me a lot of guidance and knowledge.
+
+I should add that I have passed the Artificial Intelligence and Design of Algorithms courses at university with high grades. I have also included on my CV a list of other related courses that I have completed.
+
+Thank you for your attention.
+
+Sincerely,
+Seyed Alireza Hashemi
+
+Email: amoo.hashem.mehraban@gmail.com
